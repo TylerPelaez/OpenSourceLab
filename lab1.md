@@ -32,3 +32,6 @@ Problem 6:
 
 Problem 7:
 ![solution7](http://i.imgur.com/yQXNuD4.png)
+
+Other problems #4:
+![problem4solved](http://i.imgur.com/oZ3rW4g.png)
