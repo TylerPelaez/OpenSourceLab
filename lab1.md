@@ -8,5 +8,27 @@ Overall, this has reinforced my lack of respect for the RIAA
 
 
 
-#### Man Page for tree: 
-![tree](http://i.imgur.com/HS5N74N.png)
+#### d: tree: 
+![tree](http://i.imgur.com/qKxbBrH.png)
+
+#### e: Regex Solutions
+Problem 1: 
+![solution1](http://i.imgur.com/iPKVvvk.png)
+
+Problem 2: 
+![solution2](http://i.imgur.com/n43mQQd.png)
+
+Problem 3:
+![solution3](http://i.imgur.com/ByPSkB7.png)
+
+Problem 4:
+![solution4](http://i.imgur.com/stW5c2a.png)
+
+Problem 5:
+![solution5](http://i.imgur.com/W2aXix9.png)
+
+Problem 6:
+![solution6](http://i.imgur.com/45wmTio.png)
+
+Problem 7:
+![solution7](http://i.imgur.com/yQXNuD4.png)
