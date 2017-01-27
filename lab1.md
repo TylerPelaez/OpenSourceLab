@@ -10,7 +10,7 @@ Reading this has definitely reinforced my lack of respect for the RIAA. Previous
 #### d: tree: 
 ![tree](http://i.imgur.com/qKxbBrH.png)
 
-#### e: Regex Solutions
+#### e: Regex Solutions:
 Problem 1: 
 ![solution1](http://i.imgur.com/iPKVvvk.png)
 
@@ -35,9 +35,10 @@ Problem 7:
 Other problems #4:
 ![problem4solved](http://i.imgur.com/oZ3rW4g.png)
 
-#### f: Blockly Solution
+#### f: Blockly Solution:
 ![solved](http://i.imgur.com/YMfKhwM.png)
 ![answer](http://i.imgur.com/IGGCu1u.png)
 
-
+#### g: Reflection:
+In my life, I would like a super SIMPLE life/activity tracker app. Something that doesnt require me to do all that much to use it on a day-to-day basis, but can still keep track of a bunch of different activities that I do. Ideally, the app would be like a fitness tracking app, but for more than just fitness. A multi-activity tracker/planner. 
 
