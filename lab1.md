@@ -4,8 +4,7 @@
 2. It's important to keep in mind that when answering a person's questions, you are functioning as a person's teacher. The consequence of this is that you also have a responsibility to communicate clearly and put in the effort to a smart question.
 
 #### Free Culture:
-Overall, this has reinforced my lack of respect for the RIAA
-
+Reading this has definitely reinforced my lack of respect for the RIAA. Previously, I was aware of the RIAA's (and to some extent the MPAA's) less than savory practices, but this chapter very clearly demonstrates how backwards the RIAA is. This subject of the power of copyright holders and the ability they have to completely damage innocent peoples' lives  is something that I feel is becoming increasingly relevant in today's society. There are many places on the internet, both related and unrelated to software, where people who do good, honest work are easily preyed upon by organizaations like the RIAA. Hopefully, more clear public policy will be introduced in the future regarding the internet and technology's role in copyright infringement.
 
 
 #### d: tree: 
@@ -35,3 +34,10 @@ Problem 7:
 
 Other problems #4:
 ![problem4solved](http://i.imgur.com/oZ3rW4g.png)
+
+#### f: Blockly Solution
+![solved](http://i.imgur.com/YMfKhwM.png)
+![answer](http://i.imgur.com/IGGCu1u.png)
+
+
+
