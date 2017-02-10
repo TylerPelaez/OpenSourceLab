@@ -1,0 +1,3 @@
+/Users/tylerpelaez/Dropbox/school stuff/opensource/cmaketuts/CMakeFiles/edit_cache.dir
+/Users/tylerpelaez/Dropbox/school stuff/opensource/cmaketuts/CMakeFiles/rebuild_cache.dir
+/Users/tylerpelaez/Dropbox/school stuff/opensource/cmaketuts/CMakeFiles/Tutorial.dir
